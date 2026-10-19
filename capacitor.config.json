@@ -1,0 +1,7 @@
+{
+  "appId": "com.pitchkings.game",
+  "appName": "Pitch Kings",
+  "webDir": "www",
+  "backgroundColor": "#0a1a12",
+  "server": { "androidScheme": "https" }
+}
